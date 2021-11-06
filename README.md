@@ -167,3 +167,5 @@ and Data Protection Amendment (DPA)
  describe the purpose of Azure Sovereign Regions (Azure Government cloud services and
 Azure China cloud services)
 ```
+1) Azure_identity_services.md
+2) 
