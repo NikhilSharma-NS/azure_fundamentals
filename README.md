@@ -168,4 +168,5 @@ and Data Protection Amendment (DPA)
 Azure China cloud services)
 ```
 1) Azure_identity_services.md
-2) 
+2) Azure_governance_feature.md
+3) Policy_compliance_features.md
